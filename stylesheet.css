@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Vodafone Rg';
+    src: url('VodafoneRg-Regular.woff2') format('woff2'),
+        url('VodafoneRg-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vodafone Rg';
+    src: url('VodafoneRg-Bold.woff2') format('woff2'),
+        url('VodafoneRg-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
