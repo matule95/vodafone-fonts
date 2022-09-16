@@ -16,3 +16,12 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Vodafone Lt';
+    src: url('VodafoneLt-Regular.woff2') format('woff2'),
+        url('VodafoneLt-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
